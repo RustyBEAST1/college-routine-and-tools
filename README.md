@@ -15,7 +15,7 @@ Created with early mornings, study blocks, Genshin sessions 🎮, and time for r
 | 4:30 – 5:30 AM  | Walk/Run + Light Exercise         |
 | 6:30 – 8:30 AM  | Study (Main Subject)              |
 | 11:35 AM – 5:20 PM | College Time                  |
-| 5:30 – 7:30 PM  | Genshin / Manga / Revision       |
+| 5:30 – 7:30 PM  | Games / Manga / Revision       |
 | 10:00 PM        | Sleep 💤                          |
 
 ## 🛠 Tools Included
