@@ -8,7 +8,7 @@ A personal productivity system to manage my new semester, combining:
 
 ## 📅 Weekly Schedule
 
-Created with early mornings, study blocks, Genshin sessions 🎮, and time for reading 📖 and relaxation.
+Created with early mornings, study blocks, Game sessions 🎮, and time for reading 📖 and relaxation.
 
 | Time            | Activity                         |
 |-----------------|----------------------------------|
